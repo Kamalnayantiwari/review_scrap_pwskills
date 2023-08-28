@@ -5386,3 +5386,62 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [27/Aug/2023 20:25:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [27/Aug/2023 20:25:19] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [27/Aug/2023 20:25:19] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [27/Aug/2023 20:25:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Nimisha yadav', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'This is it, I am in love with my Oh.So.Pro🥰😍'}, {'Product': 'iphone12pro', 'Name': 'Prashanthsahu', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Fantastic'}, {'Product': 'iphone12pro', 'Name': 'Sudhanshu Ojha', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Truly a pro max phone!!!'}, {'Product': 'iphone12pro', 'Name': 'Hitesh Patel', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Excellent'}, {'Product': 'iphone12pro', 'Name': 'Chandan Hazarika', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Truly the best pro max. Worth the upgrade..Awesome build quality'}, {'Product': 'iphone12pro', 'Name': 'Sumrendra Singh', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best in class'}, {'Product': 'iphone12pro', 'Name': 'sagar ambuwani', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Beautiful'}, {'Product': 'iphone12pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Perfect and original product ❤️thank you Filpkart ☺️'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Singh', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'I love this phone very much, looking very wonderful in this blue colour.'}, {'Product': 'iphone12pro', 'Name': 'Chandan Hazarika', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Truly an amazing performance beast. Worth every penny'}, {'Product': 'iphone12pro', 'Name': 'Chandan Hazarika', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Truly an amazing performance beast. Worth every penny'}]
+INFO:werkzeug:172.18.0.2 - - [27/Aug/2023 20:25:27] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [27/Aug/2023 20:25:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [27/Aug/2023 20:25:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:41:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:41:13] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:41:13] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:41:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Rajkumar tiwari', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'indeed a great phone feels premium in hand but battery life is low'}, {'Product': 'iphone12pro', 'Name': 'Kirti Yadav', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Its just Perfect . Prices are a bit high .'}, {'Product': 'iphone12pro', 'Name': 'Tushar Saini', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'The camera is mind-blowing I love it 😘'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'A masterpiece to cherish.'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best designed iPhone'}, {'Product': 'iphone12pro', 'Name': 'Vinit Kar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I have been using iPhones for years, but the fast charging and battery on this one is brilliant. Like i always say, iPhone is more of a jewellery than a phone. But this one has some power-packed features and an awesome camera. So if you can afford it, buy it!'}, {'Product': 'iphone12pro', 'Name': 'Rahul  Meena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I like the most in this phone:-1. I like the size of this phone because it is easy to hold.2. The camera quality of this phone is admirable. 3. Battery backup is good.4. The new design and colour  of this phone also a plus point of its beauty.5. These  points are my personal which i like most in this phone.'}, {'Product': 'iphone12pro', 'Name': 'Salman Rahman', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'This one of the best iPhone ever built, though battery backup isn’t good. But the user experience is brilliant.Upgraded from 11 Pro.'}, {'Product': 'iphone12pro', 'Name': 'Anveer arora', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'I purchased this phone 4 my wife.i give her surprised gift.she was so happy that her tears came when she saw this gift☺️.Some reviews after 4 days use1. Looks awesome 👌2. Camera quality superb❤️3. Battery avarage normal🤟4. According 2 price its below avarage 🤏5. Performance no 1👍'}, {'Product': 'iphone12pro', 'Name': 'Harsh Singh', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Premium quality iPhone💯'}, {'Product': 'iphone12pro', 'Name': 'Harsh Singh', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Premium quality iPhone💯'}]
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:41:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:41:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:41:21] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'technospark6go', 'Name': 'Pwn Ansari', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Is this best for 4GB /64 GB'}, {'Product': 'technospark6go', 'Name': 'Kishanu Bhattacharjee ', 'Rating': '3', 'CommentHead': 'Does the job', 'Comment': 'Budget smartphone'}, {'Product': 'technospark6go', 'Name': 'Danish Ansari', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Nice mobile'}, {'Product': 'technospark6go', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Beautiful products'}, {'Product': 'technospark6go', 'Name': 'N.BALA SURYA  VAMSI', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Excellent service by the seller and flipkart value for money .This is first mobile I purchased in flipkart.Phone is very good and smooth thank you to tecno .'}, {'Product': 'technospark6go', 'Name': 'Vicky Raj  Jaiswal', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Superb quality superb camera'}, {'Product': 'technospark6go', 'Name': 'Trilochan Rout', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Good'}, {'Product': 'technospark6go', 'Name': 'Md Sonu Hussain', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Super se uper the best smartphone'}, {'Product': 'technospark6go', 'Name': 'Md Jamal Uddin', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'NiceProduct'}, {'Product': 'technospark6go', 'Name': 'Rahul Yadav', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Nice product'}, {'Product': 'technospark6go', 'Name': 'Rahul Yadav', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Nice product'}]
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:44:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:44:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:44:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:48:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:49:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:49:05] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:49:05] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:49:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:log my final result [{'Product': 'Delllatitude5490', 'Name': 'Sekh Abbas Uddin ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Jast Awesome ❤️'}, {'Product': 'Delllatitude5490', 'Name': 'Devendrappa Adiveppa', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'The best'}]
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:49:24] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:49:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:49:25] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:58:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:58:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:58:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:58:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:log my final result [{'Product': 'Videocontv', 'Name': 'Subrata Roy', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Good'}, {'Product': 'Videocontv', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very good product'}]
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:59:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:59:18] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [28/Aug/2023 09:59:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
